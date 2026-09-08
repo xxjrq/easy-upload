@@ -1,0 +1,14 @@
+{
+  "runId": "fixture-image-post",
+  "content": {
+    "type": "image-post",
+    "media": ["../media/page-01.png", "../media/page-02.png"],
+    "cover": "../media/cover.png",
+    "title": "图文上传合同示例",
+    "description": "验证图片顺序和封面与正文的区分。",
+    "tags": ["图文", "内容发布"]
+  },
+  "targets": [
+    { "platform": "douyin", "account": "main", "action": "draft-only" }
+  ]
+}

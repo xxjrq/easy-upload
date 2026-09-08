@@ -1,0 +1,9 @@
+{
+  "content": {
+    "type": "video",
+    "media": "../media/demo.mp4",
+    "title": "无效 fixture",
+    "tags": ["重复", "#重复"]
+  },
+  "targets": [{ "platform": "douyin", "account": "main" }]
+}

@@ -1,0 +1,15 @@
+{
+  "runId": "fixture-video",
+  "content": {
+    "type": "video",
+    "media": "../media/demo.mp4",
+    "cover": "../media/cover.png",
+    "title": "用浏览器把作品上传到多个平台",
+    "description": "这是一个离线合同 fixture，不会连接真实平台。",
+    "tags": ["AI工具", "效率"]
+  },
+  "targets": [
+    { "platform": "douyin", "account": "main", "action": "draft-only" },
+    { "platform": "xiaohongshu", "account": "brand", "action": "draft-only" }
+  ]
+}

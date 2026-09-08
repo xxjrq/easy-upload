@@ -1,0 +1,10 @@
+{
+  "content": {
+    "type": "image-post",
+    "media": ["../media/page-01.png"],
+    "title": "B站图文",
+    "description": "",
+    "tags": []
+  },
+  "targets": [{ "platform": "bilibili", "account": "自媒体" }]
+}

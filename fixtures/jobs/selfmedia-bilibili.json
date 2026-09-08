@@ -1,0 +1,7 @@
+{
+  "source": {
+    "type": "selfmedia-release",
+    "directory": "../../../../projects/github/videos/2026-745-codex-dream-skin/发布成品"
+  },
+  "targets": [{ "platform": "bilibili", "account": "自媒体", "action": "draft-only" }]
+}

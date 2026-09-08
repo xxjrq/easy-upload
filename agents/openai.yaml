@@ -1,0 +1,7 @@
+interface:
+  display_name: "easyUpload"
+  short_description: "通过已登录浏览器上传视频和图文"
+  icon_small: "./assets/icon-128.png"
+  icon_large: "./assets/icon-512.png"
+  brand_color: "#0F766E"
+  default_prompt: "使用 $easy-upload 通过已登录浏览器上传成品视频或图文；B站任务先保存草稿，抖音和小红书按当前页面引导，发布前保留人工确认。"
