@@ -1,6 +1,6 @@
 {
   "name": "easy-upload",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Cross-agent multi-platform media upload skill powered by Easy WebBridge",
   "type": "module",
   "private": false,
