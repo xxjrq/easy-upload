@@ -1,7 +1,7 @@
 name: easy-upload
 display_name: easyUpload
 slug: easy-upload
-version: 0.2.1
+version: 0.2.2
 category: 内容发布 / Multi-platform Upload
 author: xxjrq
 description: 通过 Easy WebBridge 复用已登录浏览器上传视频、图文、封面和发布文案；B站有明确适配器，抖音和小红书采用页面自适应引导流程。

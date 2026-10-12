@@ -1,14 +1,14 @@
 {
   "name": "easy-upload",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Cross-agent multi-platform media upload skill powered by Easy WebBridge",
   "type": "module",
   "private": false,
   "license": "MIT",
   "engines": { "node": ">=20" },
   "scripts": {
-    "check": "node --check scripts/easy-upload.mjs && node --check scripts/easy-webbridge-client.mjs",
-    "self-test": "node scripts/easy-upload.mjs self-test",
+    "check": "node --check scripts/easy-upload.mjs && node --check scripts/easy-webbridge-client.mjs && node --check scripts/record-publication.mjs",
+    "self-test": "node scripts/easy-upload.mjs self-test && node scripts/record-publication.mjs self-test",
     "test": "npm run check && npm run self-test",
     "preflight": "node scripts/easy-upload.mjs preflight"
   },
